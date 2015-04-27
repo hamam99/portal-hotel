@@ -1,0 +1,6 @@
+tata cara pemesanan hotel 
+1 klik kamar
+detail kamar (harga+ fasilitas+d;;)
+2 masukkan data diri + waktu menginap
+4 masukkan tatacara pembayaran (transfer atau di hotel )
+5 check in
