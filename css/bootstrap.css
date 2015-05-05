@@ -1,3 +1,4 @@
+
 /*!
  * Bootstrap v3.1.1 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -126,7 +127,7 @@ select {
 button,
 html input[type="button"],
 input[type="reset"],
-input[type="submit"] {
+ input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
 }
