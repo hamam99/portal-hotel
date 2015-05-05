@@ -283,7 +283,7 @@
 
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-	$to = "manager@valleyresot.com";
+	$to = "zero.saturnus@gmail.com";
 	$subject = "Complaint";
 	$pesan = $_POST["message"];
 	$from = "From : anonymous@mail.com";
